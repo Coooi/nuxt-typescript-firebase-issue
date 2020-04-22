@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-typescript-firebase",
+  "version": "1.0.0",
+  "description": "Issue with nuxt firebase and typescript",
+  "author": "Marco Nascimento",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "firebase": "^7.14.1",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^0.6.0"
+  }
+}
